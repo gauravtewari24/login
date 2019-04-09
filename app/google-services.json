@@ -1,0 +1,35 @@
+{
+  "project_info": {
+    "project_number": "730114501092",
+    "firebase_url": "https://signin-9577e.firebaseio.com",
+    "project_id": "signin-9577e",
+    "storage_bucket": "signin-9577e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:730114501092:android:d32b0564311a491e",
+        "android_client_info": {
+          "package_name": "com.example.sign_in"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHbHwp1xK9FGg1bBdoQDKFWZ7gYrrWUAg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "730114501092-huun5bmp4jsd9peclsn65l8092b8p18a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
